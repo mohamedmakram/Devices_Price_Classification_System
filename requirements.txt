@@ -1,0 +1,7 @@
+flask
+matplotlib
+sklearn
+numpy
+traceback
+pandas
+joblib
